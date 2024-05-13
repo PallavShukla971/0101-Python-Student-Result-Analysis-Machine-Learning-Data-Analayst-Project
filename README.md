@@ -1,6 +1,6 @@
 # 0101-Python-Student-Result-Analysis-Machine-Learning-Data-Analayst-Project
 
-Hey Everyone- This Project is made in Python with some extenshive use of SQL
+Hey Everyone- This Project is made in MySQL Workbench with some extenshive use of SQL
 
 Dataset Uploaded above.
 
